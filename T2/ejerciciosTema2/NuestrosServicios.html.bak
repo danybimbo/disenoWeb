@@ -225,7 +225,7 @@
         Aliquam dapibus scelerisque dolor, in commodo nulla scelerisque mollis.
         Aliquam elementum pulvinar nibh quis tristique. Ut feugiat eros neque,
         in commodo sapien aliquet ut. </p>
-      <h2>E-bike</h2>
+      <h2>Alquiler de bicicletas</h2>
       <p> Ut sed tincidunt augue. Sed arcu purus, laoreet a laoreet nec, mollis
         vitae lacus. Sed at efficitur justo, ac aliquam elit. Aliquam id nisl ut
         magna vestibulum convallis. Proin nec quam eget velit auctor
@@ -243,8 +243,6 @@
         Mauris quis nunc et dui fermentum ornare ac sed ex. Integer arcu ligula,
         scelerisque suscipit mattis in, tempus vitae ligula. </p>
     </div>
-    <p>
-      <a href="#top">IR ARRIBA</a>
-    </p>
+    <p> <a href="#top">IR ARRIBA</a> </p>
   </body>
 </html>
