@@ -6,7 +6,7 @@
   </head>
   <body>
     <p> Daniel Pastor </p>
-    <p><img src="../imagenes/btt.jpg" alt="imagen bici" width="200px"></p>
+    <p><img src="../imagenes/btt.jpg" alt="imagen bici" width="250px"></p>
     <p></p>
     <h2>Bicicletas Maig</h2>
     <p></p>
@@ -18,12 +18,11 @@
     </p>
     <div>
       <nav> <a href="NuestrosServicios.html" alt="Servicios que ofrecemos">Servicios</a>
-        <a href="../index.html" alt="Indice">Index</a> <a href="https://github.com/danybimbo/disenoWeb/tree/de38d423f9ebfad8bd3acdb92020224ef3d13602"
+        <a href="../index.html" alt="Indice">Index</a> <a href="https://github.com/danybimbo/disenoWeb"
 
           alt="repositorio">Repositorio</a> <a href="mailto:danybimbo@gmail.com"
 
-          alt="enviar email">Email</a> </nav>
+          alt="enviar email">Email</a> </nav> 
     </div>
-    
   </body>
 </html>

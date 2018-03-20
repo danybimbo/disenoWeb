@@ -5,7 +5,8 @@
     <title>Nuestros servici</title>
   </head>
   <body>
-    <div id="lipsum" name="top">
+    <a name="top"></a>
+    
       <h2>Reparaciones</h2>
       <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
         fermentum pulvinar erat vitae tincidunt. Donec bibendum porta commodo.
@@ -33,19 +34,19 @@
         ornare tincidunt felis auctor elementum. Integer tincidunt congue enim a
         aliquam. Duis et nibh in ante pharetra molestie id vel dui. Integer
         rutrum aliquet nunc. </p>
-      <p> Nam tempor diam in pellentesque finibus. Cras accumsan felis auctor,
-        faucibus dolor eu, accumsan elit. Morbi suscipit, justo sit amet
-        dignissim euismod, felis ante aliquam ipsum, sit amet dapibus tellus
-        orci eu ante. In ultrices massa augue, id tincidunt erat sodales eget.
-        Donec commodo venenatis dictum. Pellentesque lacus nulla, fringilla a
-        diam et, vestibulum dignissim ipsum. Pellentesque cursus sapien dolor,
-        quis pellentesque sem luctus id. Aliquam consequat posuere dictum. Ut ac
-        magna bibendum, egestas magna ut, posuere sem. Integer rutrum, nulla sit
-        amet pellentesque iaculis, tellus dolor convallis nibh, ac commodo enim
-        dolor a urna. Quisque libero turpis, elementum ac finibus vitae,
-        placerat non est. Donec at libero enim. In hac habitasse platea
-        dictumst. Cras rutrum justo vehicula, lacinia sapien ut, scelerisque
-        risus. </p>
+      <p> Nam tempor diam in pellentesque finibus. Cras accumsan
+        felis auctor, faucibus dolor eu, accumsan elit. Morbi suscipit, justo
+        sit amet dignissim euismod, felis ante aliquam ipsum, sit amet dapibus
+        tellus orci eu ante. In ultrices massa augue, id tincidunt erat sodales
+        eget. Donec commodo venenatis dictum. Pellentesque lacus nulla,
+        fringilla a diam et, vestibulum dignissim ipsum. Pellentesque cursus
+        sapien dolor, quis pellentesque sem luctus id. Aliquam consequat posuere
+        dictum. Ut ac magna bibendum, egestas magna ut, posuere sem. Integer
+        rutrum, nulla sit amet pellentesque iaculis, tellus dolor convallis
+        nibh, ac commodo enim dolor a urna. Quisque libero turpis, elementum ac
+        finibus vitae, placerat non est. Donec at libero enim. In hac habitasse
+        platea dictumst. Cras rutrum justo vehicula, lacinia sapien ut,
+        scelerisque risus. </p>
       <h2>Venta biciletas btt</h2>
       <p> Nulla facilisi. Donec aliquam non mi vitae varius. Aenean malesuada
         nisi vitae commodo lobortis. Mauris finibus urna et neque condimentum
@@ -242,7 +243,7 @@
         velit, vel consequat felis. Maecenas viverra sem a fermentum placerat.
         Mauris quis nunc et dui fermentum ornare ac sed ex. Integer arcu ligula,
         scelerisque suscipit mattis in, tempus vitae ligula. </p>
-    </div>
+    
     <p> <a href="#top">IR ARRIBA</a> </p>
   </body>
 </html>
