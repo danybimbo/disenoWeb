@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
     <title>Indice</title>
   </head>
   <body>
-    <nav> <a href="ejerciciosTema2/nosotros.html" alt="Sobre nuestra empresa">Nosotros</a>
-      <a href="ejerciciosTema2/NuestrosServicios.html" alt="Servicios que ofrecemos">Servicios</a>
-      <a href="https://es.wikipedia.org/wiki/Bicicletas_Rabasa" alt="wikipedia">Wikipedia</a>
+    <nav> <a href="ejerciciosTema2/nosotros.html" title="Sobre nuestra empresa">Nosotros</a>
+      <a href="ejerciciosTema2/NuestrosServicios.html" title="Servicios que ofrecemos">Servicios</a>
+      <a href="https://es.wikipedia.org/wiki/Bicicletas_Rabasa" title="wikipedia">Wikipedia</a>
     </nav>
     <p><br> 
     </p>
-  </body>
-</html>
+</body></html>
