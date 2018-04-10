@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+
+
+
+
+
+
+
+
+    <title>Multimedia</title>
+</head>
+<body><audio src="risa.mp3" autoplay="autoplay" controls="controls"></audio>
+  
+  <video src="https://www.quirksmode.org/html5/videos/big_buck_bunny.mp4" type="video/mp4" controls="controls">
+  </video>
+  <iframe src="https://www.youtube.com/embed/TYHYTygqnOQ" allow="autoplay; encrypted-media" allowfullscreen="" height="315" frameborder="0" width="560"></iframe>
+  <object data="tema5_1 Multimedia.pdf"></object>
+</body></html>

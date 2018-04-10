@@ -56,18 +56,27 @@
       <form class="form-inline"><input class="form-control" placeholder="Buscar..." type="text"><button class="btn btn-outline-success" type="submit">Buscar!</button></form>
     </nav>
     
-    <section>
+    <section class="row">
       <header class="col-12 col-sm-12">
         <h1>TU OPINIÓN CUENTA</h1>
       </header>
-      <article class="co-12 col-sm-12 col-md-10">
+      <article class="co-12 col-sm-8 col-md-4">
         <h3>Rellena con sinceridad</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
       </article>
-      <article class="co-12 col-sm-12 col-md-10">
-        <h3>Rellena con sinceridad</h3>
+      <article class="co-12 col-sm-8 col-md-4">
+        <h3>Rellena con sinceridad2</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
       </article>
-      <article class="co-12 col-sm-12 col-md-10">
-        <h3>Rellena con sinceridad</h3>
+      <article class="co-12 col-sm-8 col-md-4">
+        <h3>Rellena con sinceridad3</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
       </article>
     </section>
     <footer>

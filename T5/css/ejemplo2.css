@@ -1,0 +1,32 @@
+p{
+color:red;
+border:dotted 1px black;
+background-color:yellow;
+}
+
+a:hover{
+background-color:yellow;
+}
+
+a:active{
+background-color:red;
+}
+@media screen and (max-width: 500px) { 
+
+  img{
+  	display:none;
+  }
+}
+*{
+
+    font-family: 'Shadows Into Light', cursive;
+}
+nav a{
+border: dotted red 1px;
+  padding:10px;
+  margin:10px;
+}
+h1{
+text-shadow:5px 5px yellow;
+  text-align:center;
+}
